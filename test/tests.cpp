@@ -1,5 +1,6 @@
 // Copyright 2020 UNN-IASR
 #include <gtest/gtest.h>
+
 #include "fun.h"
 
 TEST(MyFunTest, test1) {
